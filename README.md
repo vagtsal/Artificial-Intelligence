@@ -1,4 +1,4 @@
-## Artificial-Intelligence course assignments:
+# Artificial-Intelligence course assignments:
 
 __askhsh1.c__ : Pathfinding using A* algorithm
 
