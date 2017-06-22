@@ -1,9 +1,9 @@
-# Artificial-Intelligence course assignments:
+## Artificial-Intelligence course assignments:
 
-askhsh1.c : Pathfinding using A* algorithm
+__askhsh1.c__ : Pathfinding using A* algorithm
 
-askhsh2.c : Hitori puzzle solving using simulated annealing
+__askhsh2.c__ : Hitori puzzle solving using simulated annealing
 
 (more in code's comments)
 
-askhsh2017.pdf : Assignments instructions (in greek)
+__askhsh2017.pdf__ : Assignments instructions (in greek)
