@@ -1,6 +1,5 @@
 ### "Artificial Intelligence" course assignments:
-<br>
-
+<br><br>
 __askhsh1.c__ : Pathfinding using A* algorithm
 
 __askhsh2.c__ : Hitori puzzle solving using simulated annealing
